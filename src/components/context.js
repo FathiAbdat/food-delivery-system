@@ -122,7 +122,7 @@ export function reducer(state, action) {
 
     case "SET_FILTER":
       return { ...state, filterCategory: action.payload };
-
+//
     default:
       return state;
   }
