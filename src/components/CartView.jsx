@@ -346,5 +346,5 @@ function RestaurantView() {
     </div>
   );
 }
-
+//
 export default RestaurantView;
