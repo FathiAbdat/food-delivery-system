@@ -287,5 +287,5 @@ function CheckoutView() {
     </div>
   );
 }
-
+//
 export default CheckoutView;
